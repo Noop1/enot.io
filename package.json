@@ -1,0 +1,37 @@
+{
+  "author": {
+    "name": "Noop1",
+    "url": "https://vk.com/grethen_dottergelb"
+  },
+  "bugs": {
+    "url": "https://github.com/Noop1/enot.io/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "debug": "^4.1.1",
+    "form-data": "^3.0.0",
+    "middleware-io": "^2.1.0",
+    "node-fetch": "^2.6.0",
+    "express": "^4.17.1",
+    "ip": "^1.1.5",
+    "sha256": "0.2.0",
+    "md5": "^2.2.1"
+  },
+  "deprecated": false,
+  "description": "Module for the Enot.io payment system.",
+  "homepage": "https://github.com/Noop1/enot.io#readme",
+  "keywords": [
+    "enot",
+    "enot-io",
+    "enot.io",
+    "payment system"
+  ],
+  "license": "ISC",
+  "main": "src/index.js",
+  "name": "enot.io",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Noop1/enot.io.git"
+  },
+  "version": "1.0.9-rc2"
+}
