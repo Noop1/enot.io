@@ -2,7 +2,7 @@
 
 ```js
 var { Enot } = require('enot.io')
-const payment = new Enot({
+var payment = new Enot({
     secretWord: process.env.SECRET_WORD,
     apiKey: process.env.API_KEY,
     email: process.env.EMAIL
