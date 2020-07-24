@@ -1,2 +1,3 @@
 # enot.io
-Everything for working with enot.io based module for AnyPay.io
+Module for working with enot.io based on the module for AnyPay
+
