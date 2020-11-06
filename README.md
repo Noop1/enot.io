@@ -1,7 +1,7 @@
 # Enot.io
 
 ## Description
-> Модуль для использования платежной системы API Enot.io.
+> Модуль для использования платежной системы Enot.io.
 
 ## Installation
 ```bash
