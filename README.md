@@ -4,6 +4,11 @@
 > Модуль для использования платежной системы Enot.io.
 
 ## Installation
+yarn
+```bash
+yarn add enot.io
+```
+npm
 ```bash
 npm i enot.io
 ```
