@@ -34,6 +34,4 @@ run().catch(console.log);
 ## README
    * [RU](src/docs/ru)
 
-> Сделано на основе модуля для anypay.io   
-
 
